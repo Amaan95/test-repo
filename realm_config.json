@@ -1,7 +1,7 @@
 {
-    "app_id": "application-0-xiugz",
+    "app_id": "codedeploy-mbavj",
     "config_version": 20210101,
-    "name": "Application-0",
+    "name": "codeDeploy",
     "location": "US-VA",
     "deployment_model": "GLOBAL"
 }
