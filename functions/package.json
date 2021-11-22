@@ -1,6 +1,6 @@
 {
     "dependencies": {
       "moment": "1.0.0",
-      "hello-world-npm": "1.0.0"
+      "promise": "1.0.0"
     }
   }
