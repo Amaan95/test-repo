@@ -1,5 +1,5 @@
 {
 	"dependencies": {
-		"moment": "1.0.0"
+		"promise": "1.0.0"
 	}
 }
