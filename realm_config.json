@@ -1,7 +1,7 @@
 {
-    "app_id": "application-0-mnpxt",
+    "app_id": "codedeploy-rwduh",
     "config_version": 20210101,
-    "name": "Application-0",
+    "name": "CodeDeploy",
     "location": "US-VA",
-    "deployment_model": "LOCAL"
+    "deployment_model": "GLOBAL"
 }
