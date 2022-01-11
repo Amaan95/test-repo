@@ -1,5 +1,5 @@
 {
-    "id": "61de038325e9f3c6792f20f7",
+    "id": "61de039cf9b099878d64bbcf",
     "name": "asfdasf",
     "type": "DATABASE",
     "config": {
@@ -13,7 +13,7 @@
         "match": {},
         "project": {},
         "full_document": true,
-        "full_document_before_change": false,
+        "full_document_before_change": true,
         "unordered": false
     },
     "disabled": false,
