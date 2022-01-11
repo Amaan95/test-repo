@@ -1,7 +1,7 @@
 {
-    "app_id": "codedeploy-zoami",
+    "app_id": "cdeploy-sgalg",
     "config_version": 20210101,
-    "name": "CodeDeploy",
+    "name": "CDeploy",
     "location": "US-VA",
-    "deployment_model": "GLOBAL"
+    "deployment_model": "LOCAL"
 }
