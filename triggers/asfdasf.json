@@ -1,20 +1,19 @@
 {
-    "id": "61de01fa6ec690aa38585ec5",
-    "name": "afaewfwe",
+    "id": "61de038325e9f3c6792f20f7",
+    "name": "asfdasf",
     "type": "DATABASE",
     "config": {
         "operation_types": [
             "INSERT",
-            "UPDATE",
-            "DELETE"
+            "UPDATE"
         ],
-        "database": "raptor",
-        "collection": "raptorObject",
+        "database": "sample_airbnb",
+        "collection": "listingsAndReviews",
         "service_name": "mongodb-atlas",
         "match": {},
         "project": {},
         "full_document": true,
-        "full_document_before_change": true,
+        "full_document_before_change": false,
         "unordered": false
     },
     "disabled": false,

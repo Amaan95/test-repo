@@ -25,7 +25,7 @@ exports = function(changeEvent) {
     Functions run by Triggers are run as System users and have full access to Services, Functions, and MongoDB Data.
 
     Access a mongodb service:
-    const collection = context.services.get("mongodb-atlas").db("raptor").collection("raptorObject");
+    const collection = context.services.get("mongodb-atlas").db("sample_airbnb").collection("listingsAndReviews");
     const doc = collection.findOne({ name: "mongodb" });
 
     Note: In Atlas Triggers, the service name is defaulted to the cluster name.
