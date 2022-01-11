@@ -1,0 +1,9 @@
+{
+    "name": "testdb",
+    "type": "mongodb",
+    "config": {},
+    "secret_config": {
+        "uri": "__testdb_uri"
+    },
+    "version": 1
+}
