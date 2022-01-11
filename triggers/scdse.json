@@ -1,0 +1,28 @@
+{
+    "id": "61de00bef84c5e1539ba43d4",
+    "name": "scdse",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "INSERT",
+            "UPDATE",
+            "DELETE"
+        ],
+        "database": "triggersTestDB",
+        "collection": "testColl",
+        "service_name": "testdb",
+        "match": {},
+        "project": {},
+        "full_document": true,
+        "full_document_before_change": true,
+        "unordered": false
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "myFunc"
+            }
+        }
+    }
+}

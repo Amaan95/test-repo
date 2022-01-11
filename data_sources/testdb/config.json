@@ -1,7 +1,15 @@
 {
     "name": "testdb",
     "type": "mongodb",
-    "config": {},
+    "config": {
+        "namespacePreimageConfigs": [
+            {
+                "collectionName": "testColl",
+                "dbName": "triggersTestDB",
+                "recordPreimages": true
+            }
+        ]
+    },
     "secret_config": {
         "uri": "__testdb_uri"
     },
