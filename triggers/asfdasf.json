@@ -5,7 +5,8 @@
     "config": {
         "operation_types": [
             "INSERT",
-            "UPDATE"
+            "UPDATE",
+            "DELETE"
         ],
         "database": "sample_airbnb",
         "collection": "listingsAndReviews",
@@ -13,7 +14,7 @@
         "match": {},
         "project": {},
         "full_document": true,
-        "full_document_before_change": true,
+        "full_document_before_change": false,
         "unordered": false
     },
     "disabled": false,

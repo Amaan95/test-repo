@@ -3,13 +3,6 @@
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "TestCluster",
-        "namespacePreimageConfigs": [
-            {
-                "collectionName": "listingsAndReviews",
-                "dbName": "sample_airbnb",
-                "recordPreimages": true
-            }
-        ],
         "readPreference": "primary",
         "wireProtocolEnabled": false
     }
