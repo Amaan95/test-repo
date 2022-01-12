@@ -1,0 +1,27 @@
+{
+    "id": "61df3cf9ef56858748f62986",
+    "name": "sfafw",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "UPDATE",
+            "INSERT"
+        ],
+        "database": "triggersTestDB",
+        "collection": "testColl",
+        "service_name": "sdfgaf",
+        "match": {},
+        "project": {},
+        "full_document": true,
+        "full_document_before_change": true,
+        "unordered": false
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "zsdfasf"
+            }
+        }
+    }
+}
