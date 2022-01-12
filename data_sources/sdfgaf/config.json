@@ -6,9 +6,10 @@
             {
                 "collectionName": "devices",
                 "dbName": "auth",
-                "recordPreimages": true
+                "recordPreimages": false
             }
-        ]
+        ],
+        "readPreferenceTagSets": []
     },
     "secret_config": {
         "uri": "__sdfgaf_uri"
