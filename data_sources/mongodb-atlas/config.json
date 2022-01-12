@@ -3,6 +3,23 @@
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "TestCluster",
+        "namespacePreimageConfigs": [
+            {
+                "collectionName": "listingsAndReviews",
+                "dbName": "sample_airbnb",
+                "recordPreimages": false
+            },
+            {
+                "collectionName": "shipwrecks",
+                "dbName": "sample_geospatial",
+                "recordPreimages": false
+            },
+            {
+                "collectionName": "movies",
+                "dbName": "sample_mflix",
+                "recordPreimages": false
+            }
+        ],
         "readPreference": "primary",
         "wireProtocolEnabled": false
     }
