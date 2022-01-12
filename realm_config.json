@@ -1,7 +1,7 @@
 {
-    "app_id": "cdeploy-sgalg",
+    "app_id": "cd2-adhse",
     "config_version": 20210101,
-    "name": "CDeploy",
+    "name": "CD2",
     "location": "US-VA",
-    "deployment_model": "LOCAL"
+    "deployment_model": "GLOBAL"
 }
