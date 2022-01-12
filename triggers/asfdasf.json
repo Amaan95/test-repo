@@ -6,7 +6,8 @@
         "operation_types": [
             "INSERT",
             "UPDATE",
-            "DELETE"
+            "DELETE",
+            "REPLACE"
         ],
         "database": "sample_restaurants",
         "collection": "neighborhoods",
