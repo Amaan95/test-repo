@@ -4,8 +4,8 @@
     "config": {
         "namespacePreimageConfigs": [
             {
-                "collectionName": "testColl",
-                "dbName": "triggersTestDB",
+                "collectionName": "devices",
+                "dbName": "auth",
                 "recordPreimages": true
             }
         ]

@@ -1,14 +1,15 @@
 {
-    "id": "61df3d18ef56858748f629ba",
-    "name": "sfafw",
+    "id": "61df3d65ef56858748f62a06",
+    "name": "grwg4g",
     "type": "DATABASE",
     "config": {
         "operation_types": [
+            "INSERT",
             "UPDATE",
-            "INSERT"
+            "DELETE"
         ],
-        "database": "triggersTestDB",
-        "collection": "testColl",
+        "database": "auth",
+        "collection": "devices",
         "service_name": "sdfgaf",
         "match": {},
         "project": {},
