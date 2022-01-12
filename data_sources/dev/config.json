@@ -2,13 +2,7 @@
     "name": "dev",
     "type": "mongodb",
     "config": {
-        "namespacePreimageConfigs": [
-            {
-                "collectionName": "testColl",
-                "dbName": "testDB",
-                "recordPreimages": true
-            }
-        ]
+        "namespacePreimageConfigs": []
     },
     "secret_config": {
         "uri": "__dev_uri"
