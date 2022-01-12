@@ -1,5 +1,5 @@
 {
-    "id": "61df5eb26171bf9fd4668850",
+    "id": "61df5edb6171bf9fd4668886",
     "name": "fwewfwe",
     "type": "DATABASE",
     "config": {
@@ -14,7 +14,7 @@
         "match": {},
         "project": {},
         "full_document": true,
-        "full_document_before_change": false,
+        "full_document_before_change": true,
         "unordered": false
     },
     "disabled": false,
