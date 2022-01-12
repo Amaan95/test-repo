@@ -8,8 +8,8 @@
             "UPDATE",
             "DELETE"
         ],
-        "database": "sample_airbnb",
-        "collection": "listingsAndReviews",
+        "database": "sample_restaurants",
+        "collection": "neighborhoods",
         "service_name": "mongodb-atlas",
         "match": {},
         "project": {},
