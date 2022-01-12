@@ -6,8 +6,7 @@
         "operation_types": [
             "INSERT",
             "UPDATE",
-            "DELETE",
-            "REPLACE"
+            "DELETE"
         ],
         "database": "sample_restaurants",
         "collection": "neighborhoods",
@@ -15,7 +14,7 @@
         "match": {},
         "project": {},
         "full_document": true,
-        "full_document_before_change": true,
+        "full_document_before_change": false,
         "unordered": false
     },
     "disabled": false,
