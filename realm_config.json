@@ -1,7 +1,7 @@
 {
-    "app_id": "codedeploy-ijhnl",
+    "app_id": "cd-yrxln",
     "config_version": 20210101,
-    "name": "CodeDeploy",
+    "name": "CD",
     "location": "US-VA",
-    "deployment_model": "LOCAL"
+    "deployment_model": "GLOBAL"
 }
