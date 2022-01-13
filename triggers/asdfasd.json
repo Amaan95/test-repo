@@ -6,7 +6,8 @@
         "operation_types": [
             "INSERT",
             "DELETE",
-            "UPDATE"
+            "UPDATE",
+            "REPLACE"
         ],
         "database": "testDB2",
         "collection": "testColl",
