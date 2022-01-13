@@ -5,8 +5,6 @@
     "config": {
         "operation_types": [
             "INSERT",
-            "DELETE",
-            "UPDATE",
             "REPLACE"
         ],
         "database": "testDB2",
