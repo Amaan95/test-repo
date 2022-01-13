@@ -1,20 +1,20 @@
 {
-    "id": "61e076ae271e8bdb54158d4c",
-    "name": "test",
+    "id": "61e074f3558ff2c1c09b736c",
+    "name": "asdfasd",
     "type": "DATABASE",
     "config": {
         "operation_types": [
             "INSERT",
-            "UPDATE",
-            "DELETE"
+            "DELETE",
+            "UPDATE"
         ],
-        "database": "testDB",
+        "database": "testDB2",
         "collection": "testColl",
-        "service_name": "mongodb-atlas",
+        "service_name": "dev",
         "match": {},
         "project": {},
         "full_document": true,
-        "full_document_before_change": true,
+        "full_document_before_change": false,
         "unordered": false
     },
     "disabled": false,
