@@ -3,6 +3,13 @@
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "Cluster0",
+        "namespacePreimageConfigs": [
+            {
+                "collectionName": "testColl",
+                "dbName": "testDB",
+                "recordPreimages": true
+            }
+        ],
         "readPreference": "primary",
         "wireProtocolEnabled": false
     }
