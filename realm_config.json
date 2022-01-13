@@ -1,7 +1,7 @@
 {
-    "app_id": "cd-ntrmr",
+    "app_id": "codedeploy-ijhnl",
     "config_version": 20210101,
-    "name": "CD",
+    "name": "CodeDeploy",
     "location": "US-VA",
-    "deployment_model": "GLOBAL"
+    "deployment_model": "LOCAL"
 }
