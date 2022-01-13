@@ -3,6 +3,13 @@
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "TestCluster",
+        "namespacePreimageConfigs": [
+            {
+                "collectionName": "RaptorObject",
+                "dbName": "raptor",
+                "recordPreimages": true
+            }
+        ],
         "readPreference": "primary",
         "wireProtocolEnabled": false
     }

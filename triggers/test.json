@@ -1,5 +1,5 @@
 {
-    "id": "61e072349ecb97363e595176",
+    "id": "61e0724e783fc873d01f8070",
     "name": "test",
     "type": "DATABASE",
     "config": {
@@ -13,7 +13,7 @@
         "match": {},
         "project": {},
         "full_document": true,
-        "full_document_before_change": false,
+        "full_document_before_change": true,
         "unordered": false
     },
     "disabled": false,
