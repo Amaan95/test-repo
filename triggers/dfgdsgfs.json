@@ -1,15 +1,15 @@
 {
-    "id": "61e074f3558ff2c1c09b736c",
-    "name": "asdfasd",
+    "id": "61f1945e192aa75ed0dbade5",
+    "name": "dfgdsgfs",
     "type": "DATABASE",
     "config": {
         "operation_types": [
             "INSERT",
-            "REPLACE"
+            "UPDATE"
         ],
-        "database": "testDB2",
-        "collection": "testColl",
-        "service_name": "dev",
+        "database": "sample_weatherdata",
+        "collection": "data",
+        "service_name": "mongodb-atlas",
         "match": {},
         "project": {},
         "full_document": true,

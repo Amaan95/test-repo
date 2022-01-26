@@ -1,0 +1,16 @@
+{
+    "name": "mongodb-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Cluster0",
+        "namespacePreimageConfigs": [
+            {
+                "collectionName": "data",
+                "dbName": "sample_weatherdata",
+                "recordPreimages": true
+            }
+        ],
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    }
+}

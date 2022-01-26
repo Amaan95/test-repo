@@ -1,9 +1,5 @@
 [
     {
-        "name": "sdfs",
-        "private": false
-    },
-    {
         "name": "myFunc",
         "private": true
     }
