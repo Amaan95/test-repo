@@ -1,7 +1,7 @@
 {
-    "app_id": "cd-drhgc",
+    "app_id": "application-0-mnpxt",
     "config_version": 20210101,
-    "name": "CD",
+    "name": "Application-0",
     "location": "US-VA",
-    "deployment_model": "GLOBAL"
+    "deployment_model": "LOCAL"
 }
