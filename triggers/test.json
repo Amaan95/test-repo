@@ -1,11 +1,12 @@
 {
-    "id": "621682f714ee4211d05fbab5",
+    "id": "6216834114ee4211d05fbaf1",
     "name": "test",
     "type": "DATABASE",
     "config": {
         "operation_types": [
             "INSERT",
-            "UPDATE"
+            "UPDATE",
+            "DELETE"
         ],
         "database": "schemaVal",
         "collection": "testColl",
