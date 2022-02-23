@@ -6,7 +6,8 @@
         "operation_types": [
             "INSERT",
             "UPDATE",
-            "REPLACE"
+            "REPLACE",
+            "DELETE"
         ],
         "database": "schemaVal",
         "collection": "testColl",
