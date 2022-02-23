@@ -1,0 +1,27 @@
+{
+    "id": "621682f714ee4211d05fbab5",
+    "name": "test",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "INSERT",
+            "UPDATE"
+        ],
+        "database": "schemaVal",
+        "collection": "testColl",
+        "service_name": "dev",
+        "match": {},
+        "project": {},
+        "full_document": true,
+        "full_document_before_change": true,
+        "unordered": false
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "myFunc"
+            }
+        }
+    }
+}

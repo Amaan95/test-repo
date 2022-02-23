@@ -5,13 +5,8 @@
         "namespacePreimageConfigs": [
             {
                 "collectionName": "testColl",
-                "dbName": "log",
-                "recordPreimages": false
-            },
-            {
-                "collectionName": "testColl",
                 "dbName": "schemaVal",
-                "recordPreimages": false
+                "recordPreimages": true
             }
         ],
         "readPreferenceTagSets": []
