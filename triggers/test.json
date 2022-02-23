@@ -5,9 +5,7 @@
     "config": {
         "operation_types": [
             "INSERT",
-            "UPDATE",
-            "REPLACE",
-            "DELETE"
+            "UPDATE"
         ],
         "database": "schemaVal",
         "collection": "testColl",
