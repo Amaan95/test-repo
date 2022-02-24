@@ -6,7 +6,12 @@
             {
                 "collectionName": "testColl",
                 "dbName": "log",
-                "recordPreimages": true
+                "recordPreimages": false
+            },
+            {
+                "collectionName": "testColl",
+                "dbName": "schemaVal",
+                "recordPreimages": false
             }
         ],
         "readPreferenceTagSets": []
