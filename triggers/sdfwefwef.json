@@ -1,11 +1,13 @@
 {
-    "id": "6217a1ca28073d30d24fe894",
+    "id": "6217a1f128073d30d24fe8d0",
     "name": "sdfwefwef",
     "type": "DATABASE",
     "config": {
         "operation_types": [
             "INSERT",
-            "UPDATE"
+            "UPDATE",
+            "DELETE",
+            "REPLACE"
         ],
         "database": "schemaVal",
         "collection": "testColl",
