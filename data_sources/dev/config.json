@@ -4,11 +4,12 @@
     "config": {
         "namespacePreimageConfigs": [
             {
-                "collectionName": "testColl",
-                "dbName": "log",
-                "recordPreimages": true
+                "collectionName": "asdfafdadf",
+                "dbName": "asdfasdf",
+                "recordPreimages": false
             }
-        ]
+        ],
+        "readPreferenceTagSets": []
     },
     "secret_config": {
         "uri": "__dev_uri"
