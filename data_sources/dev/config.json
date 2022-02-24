@@ -5,6 +5,11 @@
         "namespacePreimageConfigs": [
             {
                 "collectionName": "testColl",
+                "dbName": "log",
+                "recordPreimages": true
+            },
+            {
+                "collectionName": "testColl",
                 "dbName": "schemaVal",
                 "recordPreimages": true
             }
