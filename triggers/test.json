@@ -9,7 +9,7 @@
             "DELETE",
             "REPLACE"
         ],
-        "database": "schemaVal",
+        "database": "log",
         "collection": "testColl",
         "service_name": "dev",
         "match": {},
