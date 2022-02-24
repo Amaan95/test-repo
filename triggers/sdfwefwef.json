@@ -9,8 +9,8 @@
             "DELETE",
             "REPLACE"
         ],
-        "database": "asdfasdf",
-        "collection": "asdfafdadf",
+        "database": "log",
+        "collection": "testColl",
         "service_name": "dev",
         "match": {},
         "project": {},
