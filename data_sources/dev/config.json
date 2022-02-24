@@ -4,9 +4,9 @@
     "config": {
         "namespacePreimageConfigs": [
             {
-                "collectionName": "asdfafdadf",
-                "dbName": "asdfasdf",
-                "recordPreimages": false
+                "collectionName": "testColl",
+                "dbName": "schemaVal",
+                "recordPreimages": true
             }
         ],
         "readPreferenceTagSets": []
