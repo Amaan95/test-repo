@@ -9,8 +9,8 @@
             "DELETE",
             "REPLACE"
         ],
-        "database": "schemaVal",
-        "collection": "testColl",
+        "database": "asdfasdf",
+        "collection": "asdfafdadf",
         "service_name": "dev",
         "match": {},
         "project": {},
