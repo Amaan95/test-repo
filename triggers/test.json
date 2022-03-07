@@ -1,5 +1,5 @@
 {
-    "id": "6226844c2431946a919db437",
+    "id": "622684627a9d40da17c1b1f9",
     "name": "test",
     "type": "DATABASE",
     "config": {
@@ -7,8 +7,8 @@
             "INSERT",
             "UPDATE"
         ],
-        "database": "sample_mflix",
-        "collection": "movies",
+        "database": "testDB",
+        "collection": "testColl",
         "service_name": "mongodb-atlas",
         "match": {},
         "project": {},

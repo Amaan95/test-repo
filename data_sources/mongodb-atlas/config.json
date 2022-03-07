@@ -5,8 +5,8 @@
         "clusterName": "Cluster0",
         "namespacePreimageConfigs": [
             {
-                "collectionName": "movies",
-                "dbName": "sample_mflix",
+                "collectionName": "testColl",
+                "dbName": "testDB",
                 "recordPreimages": true
             }
         ],
