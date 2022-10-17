@@ -1,6 +1,7 @@
 [
     {
-        "name": "myFunc",
-        "private": true
+        "name": "asdfasdfa",
+        "private": false,
+        "disable_arg_logs": true
     }
 ]
